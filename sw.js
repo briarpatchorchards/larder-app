@@ -14,7 +14,7 @@
  * big and rarely change. If the network is gone, everything falls back to cache.
  */
 
-var CACHE = 'larder-0.1.2';
+var CACHE = 'larder-0.1.3';
 
 var SHELL = [
   './',
